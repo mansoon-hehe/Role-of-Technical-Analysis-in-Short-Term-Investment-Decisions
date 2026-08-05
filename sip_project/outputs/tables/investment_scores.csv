@@ -1,0 +1,7 @@
+Ticker,pe,roe,de,rev_growth,eps_growth,market_cap_cr,as_of,note,Score_PE,Score_ROE,Score_DE,Score_RevGrowth,Score_EPSGrowth,Score_Technical,Overall_Score,Rank,Recommendation
+TCS.NS,18.19,42.63,0.09,13.9,9.1,855895.0,Jul-2026,Rev growth = Q1 FY27 YoY; EPS growth = trailing 3Y avg (screener.in),83.3,100.0,66.7,83.3,83.3,60.0,80.7,1,BUY
+INFY.NS,18.33,32.68,0.11,5.1,6.65,613000.0,30-Jun-2026,Growth = 3Y forward analyst consensus (SimplyWall.st/S&P Global),50.0,83.3,50.0,50.0,50.0,50.0,56.7,2,ACCUMULATE
+ITC.NS,18.27,29.34,0.03,4.71,-40.46,524000.0,Jun-2026,"FY26 EPS decline driven by Hotels-business demerger (one-off), not core operating weakness",66.7,66.7,83.3,33.3,16.7,50.0,54.2,3,HOLD
+ICICIBANK.NS,18.49,18.23,1.02,19.34,6.23,1036903.0,27-Jul-2026,"Bank D/E reflects deposit-funded balance sheet, not comparable to non-financials",33.3,50.0,16.7,100.0,33.3,100.0,54.2,3,HOLD
+RELIANCE.NS,21.68,9.14,0.37,8.39,34.63,1751000.0,30-Jun-2026,Analyst 3Y forward estimates used for growth (S&P Global),16.7,16.7,33.3,66.7,100.0,75.0,47.9,5,HOLD
+HDFCBANK.NS,25.72,13.82,1.89,3.84,7.39,1507000.0,Jun-2026,"Bank D/E reflects deposit-funded balance sheet, not comparable to non-financials",0.0,33.3,0.0,16.7,66.7,30.0,23.7,6,AVOID / REDUCE
